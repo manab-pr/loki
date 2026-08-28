@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.6.17](https://github.com/grafana/loki/compare/v3.6.16...v3.6.17) (2026-08-28)
+
+
+### Bug Fixes
+
+* **security/UNKNOWN/:** Update module golang.org/x/crypto to v0.55.0 [SECURITY] (release-3.6.x) ([#24256](https://github.com/grafana/loki/issues/24256)) ([85b2d4f](https://github.com/grafana/loki/commit/85b2d4fb134fe97e51ea6ef25e8da999d732bb8d))
+* **security/UNKNOWN/:** Update module golang.org/x/mod to v0.40.0 [SECURITY] (release-3.6.x) ([#23963](https://github.com/grafana/loki/issues/23963)) ([c08bf30](https://github.com/grafana/loki/commit/c08bf30195ba8e59a4b79729ad79fd634fdc5b70))
+
 ## [3.6.16](https://github.com/grafana/loki/compare/v3.6.15...v3.6.16) (2026-08-27)
 
 
